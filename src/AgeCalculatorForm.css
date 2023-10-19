@@ -1,0 +1,12 @@
+button{
+    background-color: rgba(0, 0, 255, 0.827);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 130px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+}
